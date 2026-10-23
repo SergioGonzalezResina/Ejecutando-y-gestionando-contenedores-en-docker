@@ -95,6 +95,8 @@ Arrancar un contenedor que se llame `bbdd` y que ejecute una instancia de la ima
 ![Texto alternativo](IMAGENES/12.png)
 
 
+![Texto alternativo](IMAGENES/hola.png)
+
 # Tarea 2.5. Obteniendo información de los contenedores (OBLIGATORIA)
 
 En esta tarea vamos a obtener información de los contenedores creados previamente en la Tarea 2.4. *Ejecutando servicios desde contenedores. Servidores web y de bases de datos.*
@@ -117,3 +119,10 @@ Partiendo de los contenedores en ejecución de la tarea anterior y ejecutando la
 
 
 ![Texto alternativo](IMAGENES/16.png)
+
+
+![Texto alternativo](IMAGENES/maria.png)
+
+
+![Texto alternativo](IMAGENES/base de datos.png).
+
