@@ -124,5 +124,5 @@ Partiendo de los contenedores en ejecución de la tarea anterior y ejecutando la
 ![Texto alternativo](IMAGENES/maria.png)
 
 
-![Texto alternativo](IMAGENES/base_de_datos.png)
+![Texto alternativo](IMAGENES/basededatos.png)
 
