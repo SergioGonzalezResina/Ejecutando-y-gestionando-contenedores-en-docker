@@ -12,15 +12,15 @@ Una vez tenemos instalada la aplicación vamos a descargar una serie de imágene
 
 Por lo tanto, para poder superar esta actividad debes descargar las siguientes imágenes[cite: 1]:
 
-1. `ubuntu:18.04`[cite: 1]
-2. `centos:8`[cite: 1]
-3. `debian:9`[cite: 1]
-4. `mariadb:latest`[cite: 1]
-5. `mysql:5.7`[cite: 1]
-6. `httpd`[cite: 1]
-7. `tomcat:9.0.39-jdk11`[cite: 1]
-8. `jenkins/jenkins:lts`[cite: 1]
-9. `php:7.3-apache`[cite: 1]
+1. `ubuntu:18.04`
+2. `centos:8`
+3. `debian:9`
+4. `mariadb:latest`
+5. `mysql:5.7`
+6. `httpd`
+7. `tomcat:9.0.39-jdk11`
+8. `jenkins/jenkins:lts`
+9. `php:7.3-apache`
 
 > Una vez hayas descargado todas las imágenes, ejecuta la orden de **Docker CLI** correspondiente y realiza un pantallazo del resultado[cite: 1].
 ---
